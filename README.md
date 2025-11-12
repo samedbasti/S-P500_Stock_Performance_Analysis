@@ -11,4 +11,7 @@ An interactive **S&P 500 Performance Dashboard** built with Plotly shows:
 
 👉 **[View Dashboard](dashboard.html)** (open locally or host via GitHub Pages)
 
+👉 **[View Live Dashboard](https://samedbasti.github.io/S-P500_Stock_Performance_Analysis/dashboard.html)**
+
+
 ![Dashboard Preview](https://raw.githubusercontent.com/samedbasti/S-P500_Stock_Performance_Analysis/main/images/dashboard_preview.png)
